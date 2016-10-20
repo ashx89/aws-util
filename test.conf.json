@@ -1,0 +1,15 @@
+{
+    "objectKey":  "test-fixtures/test-file.json",
+
+    "sns": {
+	    "topic": "topic"
+	},
+
+	"cloudsearch": {
+		"endpoint": "https://search.test.api.endpoint.com"
+	},
+
+	"s3": {
+		"bucket": "examplebucket"
+	}
+}
